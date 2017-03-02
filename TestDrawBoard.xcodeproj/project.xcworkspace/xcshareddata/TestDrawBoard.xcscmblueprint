@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9486112CA9D3336BEA834429C275D9A73CE1F1A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9486112CA9D3336BEA834429C275D9A73CE1F1A3" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9486112CA9D3336BEA834429C275D9A73CE1F1A3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4E757F46-E3D5-49EC-AAA6-9244A0F0D74E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9486112CA9D3336BEA834429C275D9A73CE1F1A3" : "DrawBoard\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestDrawBoard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestDrawBoard.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/123.103.21.148\/mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9486112CA9D3336BEA834429C275D9A73CE1F1A3"
+    }
+  ]
+}

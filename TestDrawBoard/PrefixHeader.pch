@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  TestDrawBoard
+//
+//  Created by yuelixing on 2017/2/20.
+//  Copyright © 2017年 YueLiXing. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+
+#define AppWidth                         ([[UIScreen mainScreen] bounds].size.width)
+#define AppHeight                        ([[UIScreen mainScreen] bounds].size.height)
+
+#import "UIView+MJExtension.h"
+#import "Logger.h"
+
+#endif /* PrefixHeader_pch */
