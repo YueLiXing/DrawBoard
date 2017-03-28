@@ -20,10 +20,6 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
-	<key>LSArchitecturePriority</key>
-	<array>
-		<string>i386</string>
-	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
@@ -32,9 +28,9 @@
 		<true/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>请点击"允许"</string>
+	<string>请点击&quot;允许&quot;</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>请点击"允许"</string>
+	<string>请点击&quot;允许&quot;</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
